@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1045 347">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #db504a;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-6, .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-1, .cls-3, .cls-5 {
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        stroke: #000;
+      }
+
+      .cls-2, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11 {
+        fill: #000;
+      }
+
+      .cls-7, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-7, .cls-5 {
+        display: none;
+      }
+
+      .cls-8, .cls-9, .cls-12, .cls-13, .cls-11, .cls-14 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .cls-8, .cls-12, .cls-13 {
+        font-size: 21px;
+      }
+
+      .cls-3, .cls-5 {
+        stroke: #304c89;
+      }
+
+      .cls-9, .cls-14 {
+        font-size: 11px;
+      }
+
+      .cls-12 {
+        fill: #304c89;
+      }
+
+      .cls-4 {
+        stroke: #888;
+      }
+
+      .cls-10 {
+        font-family: ArialMT, Arial;
+        font-size: 10px;
+        isolation: isolate;
+      }
+
+      .cls-13 {
+        fill: #db504a;
+      }
+
+      .cls-11 {
+        font-size: 12px;
+      }
+
+      .cls-14 {
+        fill: #afacac;
+      }
+    </style>
+  </defs>
+  <text class="cls-14" transform="translate(40.9 342.5)"><tspan x="0" y="0" xml:space="preserve">Source:  https://www.ssa.gov/oact/babynames/limits.html</tspan></text>
+  <path class="cls-6" d="M39.5,311.5h0Z" pointer-events="none"/>
+  <line class="cls-4" x1="39.5" y1="311.5" x2="39.5" y2="316.5"/>
+  <line class="cls-4" x1="81.5" y1="311.5" x2="81.5" y2="316.5"/>
+  <line class="cls-4" x1="122.5" y1="311.5" x2="122.5" y2="316.5"/>
+  <line class="cls-4" x1="164.5" y1="311.5" x2="164.5" y2="316.5"/>
+  <line class="cls-4" x1="206.5" y1="311.5" x2="206.5" y2="316.5"/>
+  <line class="cls-4" x1="247.5" y1="311.5" x2="247.5" y2="316.5"/>
+  <line class="cls-4" x1="289.5" y1="311.5" x2="289.5" y2="316.5"/>
+  <line class="cls-4" x1="331.5" y1="311.5" x2="331.5" y2="316.5"/>
+  <line class="cls-4" x1="372.5" y1="311.5" x2="372.5" y2="316.5"/>
+  <line class="cls-4" x1="414.5" y1="311.5" x2="414.5" y2="316.5"/>
+  <line class="cls-4" x1="456.5" y1="311.5" x2="456.5" y2="316.5"/>
+  <line class="cls-4" x1="497.5" y1="311.5" x2="497.5" y2="316.5"/>
+  <line class="cls-4" x1="539.5" y1="311.5" x2="539.5" y2="316.5"/>
+  <line class="cls-4" x1="581.5" y1="311.5" x2="581.5" y2="316.5"/>
+  <line class="cls-4" x1="622.5" y1="311.5" x2="622.5" y2="316.5"/>
+  <line class="cls-4" x1="664.5" y1="311.5" x2="664.5" y2="316.5"/>
+  <line class="cls-4" x1="706.5" y1="311.5" x2="706.5" y2="316.5"/>
+  <line class="cls-4" x1="747.5" y1="311.5" x2="747.5" y2="316.5"/>
+  <line class="cls-4" x1="789.5" y1="311.5" x2="789.5" y2="316.5"/>
+  <line class="cls-4" x1="831.5" y1="311.5" x2="831.5" y2="316.5"/>
+  <line class="cls-4" x1="872.5" y1="311.5" x2="872.5" y2="316.5"/>
+  <line class="cls-4" x1="914.5" y1="311.5" x2="914.5" y2="316.5"/>
+  <line class="cls-4" x1="956.5" y1="311.5" x2="956.5" y2="316.5"/>
+  <line class="cls-4" x1="997.5" y1="311.5" x2="997.5" y2="316.5"/>
+  <line class="cls-4" x1="1039.5" y1="311.5" x2="1039.5" y2="316.5"/>
+  <text class="cls-10" transform="translate(39.5 326.5)"><tspan x="0" y="0">1910</tspan></text>
+  <text class="cls-10" transform="translate(70 326.5)"><tspan x="0" y="0">1915</tspan></text>
+  <text class="cls-10" transform="translate(111.7 326.5)"><tspan x="0" y="0">1920</tspan></text>
+  <text class="cls-10" transform="translate(153.4 326.5)"><tspan x="0" y="0">1925</tspan></text>
+  <text class="cls-10" transform="translate(195 326.5)"><tspan x="0" y="0">1930</tspan></text>
+  <text class="cls-10" transform="translate(236.7 326.5)"><tspan x="0" y="0">1935</tspan></text>
+  <text class="cls-10" transform="translate(278.4 326.5)"><tspan x="0" y="0">1940</tspan></text>
+  <text class="cls-10" transform="translate(320 326.5)"><tspan x="0" y="0">1945</tspan></text>
+  <text class="cls-10" transform="translate(361.7 326.5)"><tspan x="0" y="0">1950</tspan></text>
+  <text class="cls-10" transform="translate(403.4 326.5)"><tspan x="0" y="0">1955</tspan></text>
+  <text class="cls-10" transform="translate(445 326.5)"><tspan x="0" y="0">1960</tspan></text>
+  <text class="cls-10" transform="translate(486.7 326.5)"><tspan x="0" y="0">1965</tspan></text>
+  <text class="cls-10" transform="translate(528.4 326.5)"><tspan x="0" y="0">1970</tspan></text>
+  <text class="cls-10" transform="translate(570 326.5)"><tspan x="0" y="0">1975</tspan></text>
+  <text class="cls-10" transform="translate(611.7 326.5)"><tspan x="0" y="0">1980</tspan></text>
+  <text class="cls-10" transform="translate(653.4 326.5)"><tspan x="0" y="0">1985</tspan></text>
+  <text class="cls-10" transform="translate(695 326.5)"><tspan x="0" y="0">1990</tspan></text>
+  <text class="cls-10" transform="translate(736.7 326.5)"><tspan x="0" y="0">1995</tspan></text>
+  <text class="cls-10" transform="translate(778.4 326.5)"><tspan x="0" y="0">2000</tspan></text>
+  <text class="cls-10" transform="translate(820 326.5)"><tspan x="0" y="0">2005</tspan></text>
+  <text class="cls-10" transform="translate(861.7 326.5)"><tspan x="0" y="0">2010</tspan></text>
+  <text class="cls-10" transform="translate(903.4 326.5)"><tspan x="0" y="0">2015</tspan></text>
+  <text class="cls-10" transform="translate(945 326.5)"><tspan x="0" y="0">2020</tspan></text>
+  <text class="cls-10" transform="translate(986.7 326.5)"><tspan x="0" y="0">2025</tspan></text>
+  <text class="cls-10" transform="translate(1017.3 326.5)"><tspan x="0" y="0">2030</tspan></text>
+  <line class="cls-4" x1="39.5" y1="311.5" x2="1039.5" y2="311.5"/>
+  <path class="cls-7" d="M39.5,311.5" pointer-events="none"/>
+  <path class="cls-6" d="M39.5,11.5h0Z" pointer-events="none"/>
+  <line class="cls-4" x1="39.5" y1="311.5" x2="34.5" y2="311.5"/>
+  <line class="cls-4" x1="39.5" y1="261.5" x2="34.5" y2="261.5"/>
+  <line class="cls-4" x1="39.5" y1="211.5" x2="34.5" y2="211.5"/>
+  <line class="cls-4" x1="39.5" y1="161.5" x2="34.5" y2="161.5"/>
+  <line class="cls-4" x1="39.5" y1="111.5" x2="34.5" y2="111.5"/>
+  <line class="cls-4" x1="39.5" y1="61.5" x2="34.5" y2="61.5"/>
+  <line class="cls-4" x1="39.5" y1="11.5" x2="34.5" y2="11.5"/>
+  <text class="cls-10" transform="translate(26.9 314.5)"><tspan x="0" y="0">0</tspan></text>
+  <text class="cls-10" transform="translate(26.9 264.5)"><tspan x="0" y="0">5</tspan></text>
+  <text class="cls-10" transform="translate(21.4 214.5)"><tspan x="0" y="0">10</tspan></text>
+  <text class="cls-10" transform="translate(21.4 164.5)"><tspan x="0" y="0">15</tspan></text>
+  <text class="cls-10" transform="translate(21.4 114.5)"><tspan x="0" y="0">20</tspan></text>
+  <text class="cls-10" transform="translate(21.4 64.5)"><tspan x="0" y="0">25</tspan></text>
+  <text class="cls-10" transform="translate(21.4 14.5)"><tspan x="0" y="0">30</tspan></text>
+  <line class="cls-4" x1="39.5" y1="311.5" x2="39.5" y2="11.5"/>
+  <text/>
+  <path class="cls-7" d="M39.5,11.5" pointer-events="none"/>
+  <path class="cls-1" d="M147.3,261l8.3-20h8.3l8.3-10,16.7,30,8.3-40,8.3,40,16.7-10,25-30,108.3,20,16.7,10h33.3l8.3,10,8.3-20h8.3l16.7,10,8.3-30,8.3,40"/>
+  <path class="cls-3" d="M97.3,261l25-10,41.7-30,16.7,40h8.3l8.3-10h16.7l8.3-40,25,40,16.7,10,8.3-10h8.3l16.7-50,8.3,40h8.3l8.3,10,8.3-70,8.3,60,8.3-20,8.3-20h8.3l8.3,50,8.3-70,8.3,40,8.3-10,8.3-50,8.3,20,8.3-160,8.3,40h8.3l8.3,150,8.3,40,8.3-70,8.3,10,8.3-50,8.3-20,8.3,50,8.3-110,8.3,60,8.3,30h8.3l8.3,60,8.3,10,8.3-40,8.3,20,8.3,30,8.3-50,8.3,40,8.3-20,8.3,30,8.3-40,8.3-30,8.3,60,16.7,30,8.3-20,8.3,10,8.3,10,16.7-20,8.3-40,25-10,8.3,60,8.3-30,8.3,40,8.3-20,8.3-10,16.7,10,8.3,30h8.3l16.7-20,41.7,20,16.7-50,25,40h25l8.3-50,8.3,10,8.3,30,8.3,10,16.7-20,8.3,30"/>
+  <path class="cls-5" d="M39,11"/>
+  <text class="cls-11" transform="translate(960 541)"><tspan x="0" y="0">mickey_df</tspan></text>
+  <text class="cls-8" transform="translate(63.4 26.4)"><tspan x="0" y="0" xml:space="preserve">Popularity of  the name “Mickey” </tspan><tspan x="0" y="25.2" xml:space="preserve">in NY state for             and</tspan></text>
+  <text/>
+  <text class="cls-12" transform="translate(193.1 51.4)"><tspan x="0" y="0" xml:space="preserve"> Boys</tspan></text>
+  <text class="cls-13" transform="translate(288.9 51.3)"><tspan x="0" y="0" xml:space="preserve">  Girls</tspan></text>
+  <line class="cls-2" x1="289.5" y1="131.3" x2="412.1" y2="176.5"/>
+  <text class="cls-9" transform="translate(223 121.4)"><tspan x="0" y="0">1955: Mickey Mouse </tspan><tspan x="0" y="13.2">Club first airs</tspan></text>
+</svg>
